@@ -12,4 +12,4 @@ Most product ideas fail from skipping validation, not from bad execution. This f
 
 ## Built with
 
-Written as a Claude skill (a structured markdown instruction set Claude can follow step-by-step in conversation).
+Written as a Claude skill (a structured markdown instruction set Claude can follow step-by-step in conversation). It includes full prompt templates for each research and validation step, and explicit behavior rules — never skip straight to building, guide one step at a time, synthesize findings before moving on — so it actually shapes how the conversation unfolds rather than just listing stages.
